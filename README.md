@@ -3,6 +3,7 @@
 #### Final Project for I 320D, Applied Machine Learning with Python With Dr. Mishra
 #### Contributors: Michael Chen, Walt Wu, Yuning Zhang
 
+#### [Link to Report PDF]('Predicting Recessions Using Machine Learning Techniques_ I320D ML Final Project Report (1).pdf')
 ## File Descriptions:
 
 This repo cointains the collected macroeconomic data as well as the notebooks and documentation for replicating the models described in the paper. 
